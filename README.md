@@ -1,3 +1,3 @@
 # hello-world
-babbys first suppository
+babbys first repository
 i am jin
